@@ -1,3 +1,12 @@
+#Introduction
+## Core Components:
+YOLOv8 (You Only Look Once v8): A state-of-the-art object detection model used to locate license plates in video streams or images with high speed and precision.
+PP-OCRv3 (PaddlePaddle OCR version 3): An advanced lightweight OCR engine designed for high-accuracy text extraction, particularly well-suited for recognizing alphanumeric 
+characters on license plates.
+## Key Features
+High Accuracy: Combines YOLOv8’s detection strength with PP-OCRv3’s text recognition capabilities.
+Real-time Performance: Efficient processing pipeline ensures low latency in live environments.
+Scalability: Suitable for smart parking systems, toll booths, traffic surveillance, and access control.
 # Requirements
 python 3.7 - 3.11
 # Installation
