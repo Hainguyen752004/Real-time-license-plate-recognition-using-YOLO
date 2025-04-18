@@ -38,6 +38,8 @@ The recognized license plate number is either displayed on the screen or stored 
 ![image](https://github.com/user-attachments/assets/21bfa7c3-8cda-46bf-b967-087df91d4e56)
 # images web 
 ![image](https://github.com/user-attachments/assets/4d146b92-3df6-4266-b018-fba6d2c73882)
+# Data 
+Link drive : https://drive.google.com/file/d/1xchPXf7a1r466ngow_W_9bittRqQEf_T/view 
 
 
 
