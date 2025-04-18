@@ -1,0 +1,6 @@
+
+train: D:\\train_plate_models_new_test\\LP_detection\\images\\train     
+val: D:\\train_plate_models_new_test\\LP_detection\\images\val
+test: D:\train_plate_models_new_test\LP_detection\images\test      
+nc: 1                 
+names: ["plate"] 
