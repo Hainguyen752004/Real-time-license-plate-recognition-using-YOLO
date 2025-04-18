@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 ## Core Components:
 - YOLOv8 (You Only Look Once v8): A state-of-the-art object detection model used to locate license plates in video streams or images with high speed and precision.
 - 
