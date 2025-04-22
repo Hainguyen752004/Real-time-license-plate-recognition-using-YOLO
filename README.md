@@ -39,6 +39,7 @@ The recognized license plate number is either displayed on the screen or stored 
 # images web 
 ![image](https://github.com/user-attachments/assets/4d146b92-3df6-4266-b018-fba6d2c73882)
 # Data 
+CRE: Mỳ Ai 
 Link drive : https://drive.google.com/file/d/1xchPXf7a1r466ngow_W_9bittRqQEf_T/view 
 
 
