@@ -40,7 +40,7 @@ The recognized license plate number is either displayed on the screen or stored 
 ![image](https://github.com/user-attachments/assets/4d146b92-3df6-4266-b018-fba6d2c73882)
 # Data 
 ## CRE: Mì AI
-Link: https://miai.vn/
+***Link: https://miai.vn/***
 Link drive : https://drive.google.com/file/d/1xchPXf7a1r466ngow_W_9bittRqQEf_T/view 
 
 
